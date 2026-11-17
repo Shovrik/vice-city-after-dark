@@ -1,0 +1,11 @@
+{
+  "name": "Vice City Neon Gradient (Experimental)",
+  "description": "Experimental purple-to-green diagonal gradient for server header and member drawer. Keeps yacht theme untouched.",
+  "authors": [
+    {
+      "name": "Shovrik Theme Project"
+    }
+  ],
+  "main": "index.js",
+  "hash": "510c51e1a5819c36"
+}
